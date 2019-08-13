@@ -1,1 +1,1 @@
-https://vsheleg.github.io/rsschool-2019Q1-cv/cv
+https://vsheleg.github.io/cv/cv
