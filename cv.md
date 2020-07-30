@@ -20,8 +20,7 @@
       + Queue
       + Regs finder
       + Binary search tree
-      + University labs(not in Github)
-      + NoteApp
+      + NoteApp(_React, NodeJS, Express_) [try here](https://notes-app0.herokuapp.com/notes)
 6.  ### Experience :
      + 2018 - Synesis - specialist of images markup
      + 2019 - ITGENIO - teacher of programming(HTML/CSS,JS)
